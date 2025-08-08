@@ -3,8 +3,6 @@ My name is Pedro César.
 
 - 🎓 Studying Information Systems.
 - 🤖 Interested in artificial intelligence and UX/UI.
-- 💬 Ask me about books, One Piece, and art.
-
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocesr&show_icons=true&theme=chartreuse-dark)
 
